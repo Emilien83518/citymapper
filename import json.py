@@ -1,7 +1,7 @@
 import json
 
 # Load your file
-with open('paris.json', 'r') as file:
+with open('lille.json', 'r') as file:
     f = json.load(file)
 
 def isstop(g, fi):
